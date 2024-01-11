@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brandon! <br/><a href="https://github.com/joshmadakor1"></a>, <a href="https://www.linkedin.com/in/brandon-savoy-89a81072/">CyberDefender Student</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Brandon! <br/><a href="https://github.com/joshmadakor1"></a>  <a href="https://www.linkedin.com/in/brandon-savoy-89a81072/">CyberDefender Student</a> , <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
